@@ -1,6 +1,7 @@
 {
-  "title": "Widget",
+  "title": "Sheng's widgets",
  "icon": "https://assets.vvebo.vip/scripts/icon.png",
+  "description": "我的合集"
   "widgets": [
     {
       "author": "阿米诺斯",
@@ -66,5 +67,4 @@
       "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/imdb.js"
     }
   ],
-  "description": "我的合集"
 }
