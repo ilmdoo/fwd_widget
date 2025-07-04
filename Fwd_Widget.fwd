@@ -1,5 +1,6 @@
 {
   "title": "Widget",
+ "icon": "https://assets.vvebo.vip/scripts/icon.png",
   "widgets": [
     {
       "author": "阿米诺斯",
@@ -65,5 +66,5 @@
       "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/imdb.js"
     }
   ],
-  "description": ""
+  "description": "自用合集"
 }
